@@ -26,8 +26,7 @@ Você precisará de um compilador C, como **GCC** ou **Clang**, instalado em seu
 
 1.  **Clone o repositório** (se estiver em um):
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
-    cd [pasta-do-projeto]
+   https://github.com/GuiDores/Projeto-forca.git
     ```
 
 2.  **Crie o arquivo de palavras:**
@@ -101,4 +100,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE] (se você criar 
 
 [GuiDores] - [guilhermedores20@gmail.com]
 
-Link do Projeto: [LINK_DO_SEU_REPOSITORIO]
+Link do Projeto: [https://github.com/GuiDores/Projeto-forca.git]
